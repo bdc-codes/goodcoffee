@@ -50,6 +50,7 @@
                 <img class="home__logo" src="img/goodcoffee-brown.png" alt="GoodCoffee Logo" />
                 <h1>Be the connoisseur</h1>
                 <p>Still in search of the perfect bean?</p>
+                <p>If you’re looking for the best way to find good coffee in New York City you’re at the right place. Users will have access to all the filter choices that matter in the coffee world, reviews done only by “locals” getting you with the in crowd (NYC style), and only the finest selection of locations in our directory. </p>
                 <form class="form-inline home__signup--form">
                     <div class="form-group">
                         <input type="email" class="form-control" id="home__signup--email" placeholder="Enter your email">
